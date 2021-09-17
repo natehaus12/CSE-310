@@ -4,9 +4,9 @@ This is my first GitHub upload. I wanted to create a place where employers, and 
 I simply have a python file that outputs "Hello World". This hello world file has been all about creating an environment an a GitHub Repository, not about the actual code.
 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here is a video about my new Git Hub
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/MZLrn-3Ww3Q
 
 # Development Environment
 
