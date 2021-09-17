@@ -12,7 +12,7 @@ https://youtu.be/MZLrn-3Ww3Q
 
 I used VS Code to write my hello world and create a GitGub Repository.
 
-It wsa created in Python, a language I am new to.
+It was created in Python, a language I am new to.
 
 # Useful Websites
 
